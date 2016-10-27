@@ -1,0 +1,22 @@
+#TheAnswer {
+	font-size: 40px;
+	color: #990000;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+.dropdown {
+    background-color: #b3b3b3;
+    color: #4682b4;
+    font-size: 14px;
+    border: none;
+    cursor: pointer;
+  }
+  .dropdown:hover, .dropdown:focus {
+    background-color: #b3b3b3;
+    color:  #4682b4;
+  }
+  .Menu {
+  	float: right;
+  }
+  img {
+    margin-bottom: 20px;
+  }

@@ -1,0 +1,39 @@
+#TheAnswer {
+	font-size: 40px;
+	color: #990000;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+.dropdown {
+    background-color: #b3b3b3;
+    color: #4682b4;
+    font-size: 14px;
+    border: none;
+    cursor: pointer;
+  }
+  .dropdown:hover, .dropdown:focus {
+    background-color: #b3b3b3;
+    color:  #4682b4;
+  }
+  .Menu {
+  	float: right;
+  }
+  .Auto {
+    float: right;
+  }
+  #right {
+  float: right;
+  width: 45%;
+  margin-right: 10px;
+  margin-top: 10px;
+}
+#left {
+  float: left;
+  width: 50%;
+  margin-right: 10px;
+  margin-left: 10px;
+  }
+  .jumbotron {
+    font-size: 12px;
+    margin: 10px;
+    padding: 10px;
+  }
